@@ -1,5 +1,5 @@
 {
-    "name": "myckhel/laravel-paystack",
+    "name": "unicodeveloper/laravel-paystack",
     "description": "A Laravel 5 Package for Paystack",
     "keywords": ["php","github", "laravel","Open Source","payments", "subscription", "paystack", "paystack.co","laravel 5"],
     "license": "MIT",
@@ -13,7 +13,6 @@
         "email": "info@devfunsho.com"
       }
    ],
-   "minimum-stability": "stable",
     "repositories": [
     {
       "type": "vcs",
