@@ -13,7 +13,7 @@
         "email": "info@devfunsho.com"
       }
    ],
-   "minimum-stability": "stable",
+   "minimum-stability": "dev",
     "repositories": [
     {
       "type": "vcs",
